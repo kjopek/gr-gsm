@@ -25,7 +25,6 @@
 import pmt
 import time
 import grgsm
-import osmosdr
 
 from math import pi
 
